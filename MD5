@@ -1,4 +1,4 @@
-51bf9c664f414616fd4c6ec4ceb179a0 *DESCRIPTION
+a1d0fc5cd2d6dc39b70c7d2d18867ea7 *DESCRIPTION
 5e2a2d5a54b8daf4227b2ab4131d82e0 *LICENSE
 392a09ae2a7af646e3ce8e724ad7e9e1 *NAMESPACE
 a983658096b25b52efa42aeea473b339 *R/aaa-classes.R
@@ -7,8 +7,8 @@ a983658096b25b52efa42aeea473b339 *R/aaa-classes.R
 c2f4c4f1392e460251330bdccc5bc481 *R/pair_counting.R
 feb729477c5872e1150420a5c868d3e4 *R/partitionComparison.R
 23c51de83e17d5b22688d42a2ae3b2a5 *R/set_based.R
-95e9a4350df7d228c302ff0f9d58116b *build/partial.rdb
-30ad74da9297786dbd5c1324d669688c *inst/REFERENCES.bib
+5f1e23c8c25737fb6305e628594cbcfb *build/partial.rdb
+a8f3693dd990b48448554be07fe7c7ff *inst/REFERENCES.bib
 48ee141913f77eb9c88aebfb11ac24cd *man/N.Rd
 6b2381f40945f77783c757f3f9c799c3 *man/N00.Rd
 dbe490c36bfa08968196d76e7252c431 *man/N01.Rd
